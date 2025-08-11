@@ -32,6 +32,8 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j91M4Yf.png" group-title="General" ,Xtrema Cine Clasico
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s48-c-k-c0x00ffffff-no-rj" group-title="Noticias", Deutsche Welle 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 # --- DEPORTES ---
 #EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/B31n.Xtr4.png" group-title="Deportes" ,BEIN SPORTS XTRA N
