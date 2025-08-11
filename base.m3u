@@ -1,4 +1,7 @@
 # --- GENERAL ---
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/HvjsN04ks_9U0E-7Um0tlS9u3BE4JX2Dd4x0z2eTboikZk0Ofk7CLtp5yIRSq--EMfu95AAOmQ=s48-c-k-c0x00ffffff-no-rj" group-title="General", El Trece HD (ARG)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="General" ,Argentinisima Satelital (540p)
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
@@ -42,6 +45,9 @@ http://tvhomesmart.xyz:8080/live/965958597tv/v5548uwxq/60352.ts
 
 #EXTINF:-1 group-title="Deportes",dazn f1 sd
 http://tvhomesmart.xyz:8080/live/965958597tv/v5548uwxq/60349.ts
+
+#EXTINF:-1 group-title="Deportes",FOX F1
+http://mundod.ddns.me:2082/live/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/3082.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/F0x1.png" group-title="Deportes" ,FOX Deportes
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
