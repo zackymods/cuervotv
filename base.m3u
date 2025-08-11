@@ -31,11 +31,17 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/B31n.Xtr4.png" group-title="Deportes" ,BEIN SPORTS XTRA N
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/512px-DAZN_logo.svg.png" group-title="Deportes" ,DAZN
-https://cors-anywhere.herokuapp.com/http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:56:15:85&stream=162672&extension=ts&play_token=VDG2TpZWv3
+#EXTINF:-1 group-title="Deportes",DAZN F1 HD
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:56:15:85&stream=162672&extension=ts&play_token=VDG2TpZWv3
 
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/teMYt1vrIoqDB0rLa248fm1IAWkzudi0Gfg4OBgDgDY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvRjEt/TG9nby1QTkctUGhv/dG8ucG5n" group-title="Deportes" ,F1 Colapinto Onboard
-https://dglvz29s.fubohd.com/disney11/mono.m3u8?token=2e1fc046e61910b19414a06666d568127ce96252-c2-1754101510-1754083510
+#EXTINF:-1 group-title="Deportes",DAZN F1 HD 2
+http://nxt.plus:8080/live/CASAHD/100100/25278.ts
+
+#EXTINF:-1 group-title="Deportes",DAZN F1 HD 50FPS
+http://tvhomesmart.xyz:8080/live/965958597tv/v5548uwxq/60352.ts
+
+#EXTINF:-1 group-title="Deportes",dazn f1 sd
+http://tvhomesmart.xyz:8080/live/965958597tv/v5548uwxq/60349.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/F0x1.png" group-title="Deportes" ,FOX Deportes
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
