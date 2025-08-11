@@ -2,14 +2,11 @@
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/HvjsN04ks_9U0E-7Um0tlS9u3BE4JX2Dd4x0z2eTboikZk0Ofk7CLtp5yIRSq--EMfu95AAOmQ=s48-c-k-c0x00ffffff-no-rj" group-title="General", El Trece HD (ARG)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalAmericaTV.do@SD" tvg-logo="https://canalamerica.tv/images/sampledata/logos/lgocanalamerica02-original.fw.png" group-title="General",Canal America TV (720p)
+http://newyorkstream.ddns.net:5854/enlacecanalamerica/encoderRD/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s48-c-k-c0x00ffffff-no-rj" group-title="General", Telefe HD (ARG)
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest?cb=20200120201051&path-prefix=es" ,Cinemax
-http://181.78.105.146:2000/play/a014/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest?cb=20220119162341" ,DAZN 4
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s48-c-k-c0x00ffffff-no-rj" group-title="Noticias", Deutsche Welle 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
