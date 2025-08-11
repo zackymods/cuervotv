@@ -63,7 +63,7 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrDlgDMYcde_7MsZCVsPYdmdLoR1-TQX6AxA&s" group-title="Entretenimiento" ,DARK TV
 http://mundod.ddns.me:2082/live/matiasmunoz/6hKafmmGuaYP/57855.ts
 
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_neox.svg" group-title="Entretenimiento" ,NeoXTV
+#EXTINF:-1 group-title="Entretenimiento" ,NeoXTV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Entretenimiento" ,El Trece
@@ -77,16 +77,16 @@ https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 
 
 # --- PELíCULAS ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Películas" ,Disney Channel East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Infantil" ,Disney Channel East
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Películas" ,Disney Junior (576p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Infantil" ,Disney Junior (576p)
 http://116.90.120.149:8000/play/a0b3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Películas" ,Disney Junior East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Infantil" ,Disney Junior East
 https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Películas" ,Disney XD (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Infantil" ,Disney XD (720p)
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 
 
@@ -97,12 +97,5 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/LMl657wPARyj9vj2BnuqQ3joJh2UUMZ58Jcs9Qbv0Bk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzA1/NTgvNjQxMy8xNzY0/L2ZpbGVzL0Rpc2Nv/dmVyeV9DaGFubmVs/X0xvZ29fRGVzaWdu/X0hpc3RvcnlfRXZv/bHV0aW9uXzRfMTAy/NHgxMDI0LmpwZz92/PTE2OTQwNzAwODM" group-title="Documentales" ,Discovery Channel
 https://181.78.27.128:8000/play/a05x/index.m3u8
 
-
-# --- NOTICIAS ---
-#EXTINF:-1 group-title="Noticias" ,Canal Uno Jujuy
-https://vd01.streaminghd.net.ar:3470/live/mproductoralive.m3u8
-
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="Noticias" ,Neo TV Digital
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
