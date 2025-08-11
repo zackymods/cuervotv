@@ -63,6 +63,9 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrDlgDMYcde_7MsZCVsPYdmdLoR1-TQX6AxA&s" group-title="Entretenimiento" ,DARK TV
 http://mundod.ddns.me:2082/live/matiasmunoz/6hKafmmGuaYP/57855.ts
 
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_neox.svg" group-title="Entretenimiento" ,NeoXTV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Entretenimiento" ,El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
