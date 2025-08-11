@@ -104,6 +104,9 @@ https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympus
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror.jpg" group-title="Peliculas",FreeTV Terror
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-terror/playlist.m3u8?ads.rnd=l3bh&ads.env_i=e881090f-84c2-4ccc-a388-51c550d1493c&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=230&ads.height=130&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=186.141.227.143&ads.geo=AR&ads.lat=-32.85740&ads.long=-68.83680&ads.dma=&ads.geoType=2&ads.contentid=23008&ads.content_duration=18000&ads.episode_id=70732&ads.show_id=2774&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CHorror%2CThriller%2CSpanish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=es&ads.showtitle=FreeTV%20Terror&ads.episodetitle=FreeTV%20Terror&ads.keywords=Horrorfy%2CHorror%2CSci-Fi%2CSpanish%2Cespanol%2Cterror%2Chorror%2Cthriller&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20250220
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/S4T593yU0BuL0AKg55PlJM8oJyq2TgDah1K9d7_pi-JQ2VgP_-_GABXUf1cTvn0Kk-sEIBQARSI=s48-c-k-c0x00ffffff-no-rj" tvg-country="AR" tvg-language="Spanish" group-title="Variedades", Ciudad Magazine 
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="Entretenimiento" ,NeoXTV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
