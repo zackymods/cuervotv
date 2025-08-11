@@ -8,6 +8,9 @@ http://newyorkstream.ddns.net:5854/enlacecanalamerica/encoderRD/playlist.m3u8
 #EXTINF:-1 tvg-id="266" tvg-name="Canal 10" tvg-logo="https://cdn.m3u.cl/logo/266_Canal_10.png", Canal 10 | AR
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="282" tvg-name="Garage TV" tvg-logo="https://cdn.m3u.cl/logo/282_Garage_TV.png", Garage TV | AR
+https://stream1.sersat.com/hls/garagetv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s48-c-k-c0x00ffffff-no-rj" group-title="General", Telefe HD (ARG)
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
